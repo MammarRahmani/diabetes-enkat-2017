@@ -1,0 +1,425 @@
+[{
+                                    "threshold": 50,
+                                    "id": 201,
+                                    "name": "HbA1c <52",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 202,
+                                    "name": "Rökare",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 203,
+                                    "name": "Fotundersökning senaste året",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 204,
+                                    "name": "HbA1c >73",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 11,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 205,
+                                    "name": "Blodtryck <130/80",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 20,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 206,
+                                    "name": "Blodtryck <140/80",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 22,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 207,
+                                    "name": "Blodtryck ≤130/80",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 21,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 208,
+                                    "name": "Blodtryck ≤140/80",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 23,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 209,
+                                    "name": "LDL <2,5",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 210,
+                                    "name": "Kolesterol <4,5",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 211,
+                                    "name": "Förekomst av albuminuri",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 212,
+                                    "name": "Ögonbottenundersökning inom 2 år",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 213,
+                                    "name": "Ögonbottenundersökning inom 3 år",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 214,
+                                    "name": "Lipidsänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 215,
+                                    "name": "Blodtryckssänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 216,
+                                    "name": "Förekomst av diabetesretinopati",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 217,
+                                    "name": "BMI <35",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 218,
+                                    "name": "Systoliskt blodtryck <150",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 25,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 219,
+                                    "name": "Andel fysiskt inaktiva",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 220,
+                                    "name": "HbA1c <50",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 221,
+                                    "name": "HbA1c >70",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 15,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 222,
+                                    "name": "Blodtryck <140/85",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 24,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 223,
+                                    "name": "Genomförd ögonundersökning enligt riktlinjer",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": "Genomförd ögonbottenbottenundersökning Inom 2 år för diabetes typ 1. Inom 3 år för övriga."
+                                }, {
+                                    "threshold": 50,
+                                    "id": 224,
+                                    "name": "Insulinbehandlade med insulinpump",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2003,
+                                    "name": "Blodtryck <130/80, blodtryckssänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 22,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2004,
+                                    "name": "Blodtryck ≤130/80, blodtryckssänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 22,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2005,
+                                    "name": "Blodtryck <140/80, blodtryckssänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 23,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2006,
+                                    "name": "Blodtryck ≤140/80, blodtryckssänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 23,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2007,
+                                    "name": "Blodtryck <140/85, blodtryckssänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 23,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2010,
+                                    "name": "LDL <2,5, lipidsänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2011,
+                                    "name": "Kolesterol <4,5, lipidsänkande läkemedel",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2013,
+                                    "name": "HbA1c <52, kostbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2014,
+                                    "name": "HbA1c <50, kostbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 12,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2015,
+                                    "name": "HbA1c >73, kostbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 11,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2016,
+                                    "name": "HbA1c >70, kostbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 13,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2017,
+                                    "name": "HbA1c <52, tablettbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2018,
+                                    "name": "HbA1c <50, tablettbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 12,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2019,
+                                    "name": "HbA1c >73, tablettbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 11,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2020,
+                                    "name": "HbA1c >70, tablettbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 13,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2021,
+                                    "name": "HbA1c <52, insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2022,
+                                    "name": "HbA1c <50, insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 12,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2023,
+                                    "name": "HbA1c >73, insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 11,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2024,
+                                    "name": "HbA1c >70, insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 13,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2025,
+                                    "name": "HbA1c <52, tablett- och insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2026,
+                                    "name": "HbA1c <50, tablett- och insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 12,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2027,
+                                    "name": "HbA1c >73, tablett- och insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 11,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 2028,
+                                    "name": "HbA1c >70, tablett- och insulinbehandlade",
+                                    "indicatorType": 1,
+                                    "unit": "Andel %",
+                                    "asc": 0,
+                                    "sortOrder": 13,
+                                    "description": null
+                                }
+]

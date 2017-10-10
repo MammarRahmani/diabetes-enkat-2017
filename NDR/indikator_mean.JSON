@@ -1,0 +1,92 @@
+[
+    {
+                                    "threshold": 50,
+                                    "id": 101,
+                                    "name": "HbA1c",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/mol",
+                                    "asc": 0,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 102,
+                                    "name": "BMI",
+                                    "indicatorType": 2,
+                                    "unit": "kg/längd²",
+                                    "asc": 0,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 103,
+                                    "name": "LDL",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/l",
+                                    "asc": 0,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 104,
+                                    "name": "Kolesterol",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/l",
+                                    "asc": 0,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 105,
+                                    "name": "Blodtryck, systoliskt",
+                                    "indicatorType": 2,
+                                    "unit": "mm Hg",
+                                    "asc": 0,
+                                    "sortOrder": 20,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 106,
+                                    "name": "Blodtryck, diastoliskt",
+                                    "indicatorType": 2,
+                                    "unit": "mm Hg",
+                                    "asc": 0,
+                                    "sortOrder": 21,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 1019,
+                                    "name": "HbA1c, kostbehandlade",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/mol",
+                                    "asc": 0,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 1020,
+                                    "name": "HbA1c, tablettbehandlade",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/mol",
+                                    "asc": 0,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 1021,
+                                    "name": "HbA1c, insulinbehandlade",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/mol",
+                                    "asc": 0,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 1022,
+                                    "name": "HbA1c, tablett- och insulinbehandlade",
+                                    "indicatorType": 2,
+                                    "unit": "mmol/mol",
+                                    "asc": 0,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }]

@@ -1,0 +1,128 @@
+[{
+                                    "threshold": 50,
+                                    "id": 301,
+                                    "name": "HbA1c",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 10,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 302,
+                                    "name": "LDL",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 303,
+                                    "name": "Blodtryck",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 20,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 304,
+                                    "name": "Kolesterol",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 305,
+                                    "name": "BMI",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 306,
+                                    "name": "Diabetesbehandling",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 307,
+                                    "name": "Fotundersökning senaste året",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 308,
+                                    "name": "Rökare",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 309,
+                                    "name": "Fysisk aktivitet",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 310,
+                                    "name": "Blodtryckssänkande behandling",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 311,
+                                    "name": "Lipidsänkande läkemedel",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 312,
+                                    "name": "Datum för ögonbottenundersökning",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 313,
+                                    "name": "Albuminuri",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }, {
+                                    "threshold": 50,
+                                    "id": 314,
+                                    "name": "Diabetesretinopati",
+                                    "indicatorType": 3,
+                                    "unit": "Andel %",
+                                    "asc": 1,
+                                    "sortOrder": 255,
+                                    "description": null
+                                }]
+                                

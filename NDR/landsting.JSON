@@ -1,0 +1,64 @@
+[{
+  "code": 1,
+  "name": "Stockholm"
+}, {
+  "code": 3,
+  "name": "Uppsala"
+}, {
+  "code": 4,
+  "name": "Södermanland"
+}, {
+  "code": 5,
+  "name": "Östergötland"
+}, {
+  "code": 6,
+  "name": "Jönköping"
+}, {
+  "code": 7,
+  "name": "Kronoberg"
+}, {
+  "code": 8,
+  "name": "Kalmar"
+}, {
+  "code": 9,
+  "name": "Gotland"
+}, {
+  "code": 10,
+  "name": "Blekinge"
+}, {
+  "code": 12,
+  "name": "Skåne"
+}, {
+  "code": 13,
+  "name": "Halland"
+}, {
+  "code": 14,
+  "name": "Västra Götaland"
+}, {
+  "code": 17,
+  "name": "Värmland"
+}, {
+  "code": 18,
+  "name": "Örebro"
+}, {
+  "code": 19,
+  "name": "Västmanland"
+}, {
+  "code": 20,
+  "name": "Dalarna"
+}, {
+  "code": 21,
+  "name": "Gävleborg"
+}, {
+  "code": 22,
+  "name": "Västernorrland"
+}, {
+  "code": 23,
+  "name": "Jämtland"
+}, {
+  "code": 24,
+  "name": "Västerbotten"
+}, {
+  "code": 25,
+  "name": "Norrbotten"
+}]
